@@ -1,3 +1,5 @@
+<p align="right"><a href="https://github.com/MoonMere/phone-photos/blob/main/README.zh-CN.md"><kbd>中文</kbd></a></p>
+
 # Phone Photos
 
 These are photos I took on my phone, mostly in Melbourne.
